@@ -1,8 +1,7 @@
 <html>
      <head>
            <title>La contaminacion</title><center> 
-         <link rel="stylesheet"type="text/css"href="css/estilos.css" />
-           <link rel="stylesheet"type="text/css"href="css/estilos2.css" />
+         
            
             
      <head>
@@ -57,6 +56,5 @@ De igual forma, los volcanes son una fuente de contaminación natural. Cuando un
             
 <br>
              
-     </body>
 
 <html>
