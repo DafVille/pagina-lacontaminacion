@@ -1,0 +1,17 @@
+﻿* {
+    margin:0;
+    padding:0;
+    color:black;
+}
+h1,h2,h3,h4,h5{
+    color:white;
+}
+h1 {
+    font-size:25px;
+}
+h2 {
+    font-size:25px;
+}
+p {
+   font-size:25px;
+}
